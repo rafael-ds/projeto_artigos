@@ -18,5 +18,5 @@ Projeto desenvolvido com objetivo de complemento do artigo sobre lista. Onde pod
 <br>
 
 # 🔗 Link Artigo
-* ✔ [Trabalhando com Listas]() 
+* ✔ [Trabalhando com Listas](https://web.dio.me/articles/trabalhando-com-lista-em-python?back=%2Farticles&page=1&order=oldest) 
   
